@@ -45,7 +45,7 @@ This project is part of **Hacktoberfest 2024**, encouraging contributors to enha
 Install the required dependencies:
 
 ```bash
-pip install requests python-decouple gradio
+pip install -r requirements.txt
 ```
 
 For testing, install `pytest`:
